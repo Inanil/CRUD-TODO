@@ -1,7 +1,7 @@
 
 
-    1.Definir las rutas
-    2.Definir los verbos de cada ruta
+    Definir las rutas
+    Definir los verbos de cada ruta
 
      /todo
 
@@ -18,5 +18,5 @@
         return todoDB
     }
     
-   3.Crear los servicios
-   4.Crear las rutas
+   Crear los servicios
+   Crear las rutas
