@@ -2,7 +2,7 @@
     1.Definir las rutas
     1.Definir los verbos de cada ruta
 
-/todo
+     /todo
 
     GET (obtener todos las tareas)
     POST (crear una nueva tarea) /todo/:id
