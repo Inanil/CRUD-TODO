@@ -17,6 +17,5 @@
     const getAllTodos = () => {
         return todoDB
     }
-
-   3. Crear los servicios
+   3.Crear los servicios
    4.Crear las rutas
